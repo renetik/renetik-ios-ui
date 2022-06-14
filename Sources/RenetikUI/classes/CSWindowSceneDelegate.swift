@@ -1,7 +1,7 @@
 open class CSWindowSceneDelegate: UIResponder, UIWindowSceneDelegate {
-    
+
     public var window: UIWindow?
-    
+
 //    public var orientationChange: CSEvent<Void> {
 //        associated("orientationChange") { event() }
 //    }
@@ -12,6 +12,8 @@ open class CSWindowSceneDelegate: UIResponder, UIWindowSceneDelegate {
 //    }
 
     open func windowScene(_ windowScene: UIWindowScene, didUpdate previousCoordinateSpace: UICoordinateSpace, interfaceOrientation previousInterfaceOrientation: UIInterfaceOrientation, traitCollection previousTraitCollection: UITraitCollection) {
-        window?.orientationChange.fire()
+        if previousInterfaceOrientation != windowScene.interfaceOrientation {
+            window?.orientationChange.fire()
+        }
     }
 }
