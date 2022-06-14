@@ -9,15 +9,7 @@ import UIKit
 
 public extension UIViewController {
 
-    var window: UIWindow? {
-//        get { weakAssociated("window") }
-//        set { weakAssociate("window", newValue) }
-        view.window
-    }
-
-    var screen: CSScreen {
-        view.screen
-    }
+    var window: UIWindow? { view.window }
 
     var navigation: UINavigationController? {
         controllerInNavigation?.parent as? UINavigationController

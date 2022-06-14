@@ -52,7 +52,6 @@ public extension UIView {
             else if recognizer.state == .changed {
                 if noUpAfterChanged { ignoreUp = true }
             }
-            logInfo(recognizer.state)
         }
         recognizer.minimumPressDuration = 0
         recognizer.delegate = recognizer.associated("delegate") { RecognizeSimultaneouslyWithAnyDelegate() }
@@ -241,15 +240,6 @@ public extension UIView {
         recognizer.numberOfTouchesRequired = numberOfTouches
         recognizer.numberOfTapsRequired = numberOfTaps
         recognizer.add(action: { _ in handler() })
-        //	[self.gestureRecognizers enumerateObjectsUsingBlock:^(id obj, NSUInteger idx, BOOL *stop) {
-        //		if (![obj isKindOfClass:[UITapGestureRecognizer class]]) return;
-        //		UITapGestureRecognizer *tap = obj;
-        //		BOOL rightTouches = (tap.numberOfTouchesRequired == numberOfTouches);
-        //		BOOL rightTaps = (tap.numberOfTapsRequired == numberOfTaps);
-        //		if (rightTouches && rightTaps) {
-        //			[gesture requireGestureRecognizerToFail:tap];
-        //		}
-        //	}];
         addGestureRecognizer(recognizer)
     }
 
