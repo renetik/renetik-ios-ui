@@ -1,4 +1,5 @@
 import UIKit
+import RenetikCore
 public protocol CSHasConstruct: AnyObject {
     func construct() -> Self
 }
@@ -10,7 +11,7 @@ extension UIView {
         // We need this to cancel click when scrolling
         // but in xcode preview not working with noUpAfterChanged:true
         onTouch({ isDown in if !isDown { block() } },
-            noUpAfterChanged: !Self.isPreview)
+            noUpAfterChanged: !CSEnvironment.isPreview && !CSEnvironment.isMac)
         return self
     }
 
@@ -46,12 +47,13 @@ public extension UIView {
                 block(true)
                 ignoreUp = false
             }
-            else if recognizer.state == .ended || recognizer.state == .cancelled {
-                if !ignoreUp { block(false) }
-            }
             else if recognizer.state == .changed {
                 if noUpAfterChanged { ignoreUp = true }
             }
+            else if recognizer.state == .ended || recognizer.state == .cancelled {
+                if !ignoreUp { block(false) }
+            }
+            logInfo(recognizer.state)
         }
         recognizer.minimumPressDuration = 0
         recognizer.delegate = recognizer.associated("delegate") { RecognizeSimultaneouslyWithAnyDelegate() }
@@ -255,6 +257,4 @@ public extension UIView {
     }
 
     var navigation: UINavigationController? { controller?.navigation }
-
-    static var isPreview: Bool { ProcessInfo.processInfo.environment["XCODE_RUNNING_FOR_PREVIEWS"] == "1" }
 }
