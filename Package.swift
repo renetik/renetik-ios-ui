@@ -14,8 +14,8 @@ let package = Package(
             targets: ["RenetikUI"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/renetik/renetik-ios-core", exact: "0.9.3" ),
-	.package(url: "https://github.com/renetik/renetik-ios-event", exact: "0.9.3" ),
+        .package(url: "https://github.com/renetik/renetik-ios-core", branch: "master" ),
+	.package(url: "https://github.com/renetik/renetik-ios-event", branch: "master" ),
     ],
     targets: [
         .target(
