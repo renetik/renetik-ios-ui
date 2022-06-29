@@ -1,4 +1,5 @@
-[![Xcode - Build Analyze](https://github.com/renetik/renetik-ios-event/workflows/Xcode%20-%20Build%20Analyze/badge.svg)](https://github.com/renetik/renetik-ios-ui/actions/workflows/build_analyze.yml)
+[![Xcode - Build Analyze](https://github.com/renetik/renetik-ios-ui/workflows/Xcode%20-%20Build%20Analyze/badge.svg)
+](https://github.com/renetik/renetik-ios-ui/actions/workflows/build_analyze.yml)
 # Renetik iOS - UI
 #### [https://github.com/renetik/renetik-ios-ui](https://github.com/renetik/renetik-ios-ui/)
 #### [Documentation](https://renetik.github.io/renetik-ios-ui/)
