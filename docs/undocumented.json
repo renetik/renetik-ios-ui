@@ -1,0 +1,2553 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/classes/CSWindowSceneDelegate.swift",
+      "line": 1,
+      "symbol": "CSWindowSceneDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/classes/CSWindowSceneDelegate.swift",
+      "line": 3,
+      "symbol": "CSWindowSceneDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/classes/CSWindowSceneDelegate.swift",
+      "line": 14,
+      "symbol": "CSWindowSceneDelegate.windowScene(_:didUpdate:interfaceOrientation:traitCollection:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/NSAttributedString+CSUIKit.swift",
+      "line": 9,
+      "symbol": "NSAttributedString.stringByReplacingOccurrencesOf(string:with:rect:tint:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/NSMutableAttributedString+CSUIKit.swift",
+      "line": 8,
+      "symbol": "NSMutableAttributedString.replaceCharacters(in:with:rect:tint:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIApplication+CSExtension.swift",
+      "line": 9,
+      "symbol": "UIApplication.window",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIApplication+CSExtension.swift",
+      "line": 11,
+      "symbol": "UIApplication.resignFirstResponder()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIApplication+CSExtension.swift",
+      "line": 15,
+      "symbol": "UIApplication.open(url:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIApplication+CSExtension.swift",
+      "line": 19,
+      "symbol": "UIApplication.open(url:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIBarButtonItem+.swift",
+      "line": 3,
+      "symbol": "UIBarButtonItem.flexSpaceItem",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIBarButtonItem+.swift",
+      "line": 7,
+      "symbol": "UIBarButtonItem.fixedSpaceItem",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIBarButtonItem+.swift",
+      "line": 11,
+      "symbol": "UIBarButtonItem.space(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIBarButtonItem+.swift",
+      "line": 13,
+      "symbol": "UIBarButtonItem.init(view:onClick:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIBarButtonItem+.swift",
+      "line": 18,
+      "symbol": "UIBarButtonItem.init(view:onClick:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIBarButtonItem+.swift",
+      "line": 23,
+      "symbol": "UIBarButtonItem.width(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIBarButtonItem+BlocksKit.swift",
+      "line": 5,
+      "symbol": "UIBarButtonItem.init(image:onClick:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIBarButtonItem+BlocksKit.swift",
+      "line": 9,
+      "symbol": "UIBarButtonItem.init(image:onClick:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIBarButtonItem+BlocksKit.swift",
+      "line": 20,
+      "symbol": "UIBarButtonItem.init(item:onClick:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIBarButtonItem+BlocksKit.swift",
+      "line": 31,
+      "symbol": "UIBarButtonItem.init(title:onClick:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIBarButtonItem+BlocksKit.swift",
+      "line": 42,
+      "symbol": "UIBarButtonItem.init(image:style:onClick:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIBarButtonItem+BlocksKit.swift",
+      "line": 53,
+      "symbol": "UIBarButtonItem.handleAction(sender:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIButton+CSExtension.swift",
+      "line": 3,
+      "symbol": "UIButton.alignContent(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIButton+CSExtension.swift",
+      "line": 9,
+      "symbol": "UIButton.aspectFit()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIButton+CSExtension.swift",
+      "line": 15,
+      "symbol": "UIButton.aspectFill()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIButton+CSExtension.swift",
+      "line": 22,
+      "symbol": "UIButton.text()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIButton+CSExtension.swift",
+      "line": 24,
+      "symbol": "UIButton.text(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIButton+CSExtension.swift",
+      "line": 28,
+      "symbol": "UIButton.font()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIButton+CSExtension.swift",
+      "line": 30,
+      "symbol": "UIButton.font(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIButton+CSExtension.swift",
+      "line": 34,
+      "symbol": "UIButton.image()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIButton+CSExtension.swift",
+      "line": 36,
+      "symbol": "UIButton.image(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIButton+CSExtension.swift",
+      "line": 40,
+      "symbol": "UIButton.attributedText()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIButton+CSExtension.swift",
+      "line": 42,
+      "symbol": "UIButton.attributed(text:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIButton+CSExtension.swift",
+      "line": 46,
+      "symbol": "UIButton.textColor()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIButton+CSExtension.swift",
+      "line": 49,
+      "symbol": "UIButton.text(color:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UICollectionView+CSExtension.swift",
+      "line": 5,
+      "symbol": "UICollectionView.delegates(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UICollectionView+CSExtension.swift",
+      "line": 12,
+      "symbol": "UICollectionView.register(cell:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UICollectionView+CSExtension.swift",
+      "line": 17,
+      "symbol": "UICollectionView.scrollToPage()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UICollectionView+CSExtension.swift",
+      "line": 32,
+      "symbol": "UICollectionView.registerDefaultCell()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIColor+CSExtension.swift",
+      "line": 8,
+      "symbol": "UIColor.tint",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIColor+CSExtension.swift",
+      "line": 10,
+      "symbol": "UIColor.add(alpha:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIColor+CSExtension.swift",
+      "line": 12,
+      "symbol": "UIColor.random",
+      "symbol_kind": "source.lang.swift.decl.var.static",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIColor+Hex.swift",
+      "line": 4,
+      "symbol": "HexColor",
+      "symbol_kind": "source.lang.swift.decl.typealias",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIColor+Hex.swift",
+      "line": 11,
+      "symbol": "HexColor",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIColor+Hex.swift",
+      "line": 13,
+      "symbol": "HexColor.init(_:alpha:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIColor+Hex.swift",
+      "line": 38,
+      "symbol": "HexColor.hex",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIControll+CSExtension.swift",
+      "line": 36,
+      "symbol": "UIControl.touchUp()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIControll+CSExtension.swift",
+      "line": 39,
+      "symbol": "UIControl.touchDown()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIDevice+CSExtension.swift",
+      "line": 3,
+      "symbol": "DisplayType",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIDevice+CSExtension.swift",
+      "line": 4,
+      "symbol": "DisplayType.unknown",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIDevice+CSExtension.swift",
+      "line": 5,
+      "symbol": "DisplayType.iphone4",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIDevice+CSExtension.swift",
+      "line": 6,
+      "symbol": "DisplayType.iphone5",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIDevice+CSExtension.swift",
+      "line": 7,
+      "symbol": "DisplayType.iphone6",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIDevice+CSExtension.swift",
+      "line": 8,
+      "symbol": "DisplayType.iphone6plus",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIDevice+CSExtension.swift",
+      "line": 9,
+      "symbol": "DisplayType.iPadNonRetina",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIDevice+CSExtension.swift",
+      "line": 10,
+      "symbol": "DisplayType.iPad",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIDevice+CSExtension.swift",
+      "line": 11,
+      "symbol": "DisplayType.iPadProBig",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIDevice+CSExtension.swift",
+      "line": 18,
+      "symbol": "UIDevice.set(orientation:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIDevice+CSExtension.swift",
+      "line": 24,
+      "symbol": "UIDevice.isPhone",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIDevice+CSExtension.swift",
+      "line": 25,
+      "symbol": "UIDevice.isTablet",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIDevice+CSExtension.swift",
+      "line": 26,
+      "symbol": "UIDevice.isCarPlay",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIDevice+CSExtension.swift",
+      "line": 27,
+      "symbol": "UIDevice.isTV",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIDevice+CSExtension.swift",
+      "line": 29,
+      "symbol": "UIDevice.typeIsLike",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIDevice+CSExtension.swift",
+      "line": 54,
+      "symbol": "UIDevice.systemVersionInt",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIDevice+CSExtension.swift",
+      "line": 55,
+      "symbol": "UIDevice.isIOS10",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIDevice+CSExtension.swift",
+      "line": 56,
+      "symbol": "UIDevice.isIOS11",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIEdgeInset+CSExtension.swift",
+      "line": 9,
+      "symbol": "UIEdgeInsets.horizontalSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIEdgeInset+CSExtension.swift",
+      "line": 11,
+      "symbol": "UIEdgeInsets.horizontal",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIEdgeInset+CSExtension.swift",
+      "line": 13,
+      "symbol": "UIEdgeInsets.verticalSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIEdgeInset+CSExtension.swift",
+      "line": 15,
+      "symbol": "UIEdgeInsets.vertical",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIEdgeInset+CSExtension.swift",
+      "line": 17,
+      "symbol": "UIEdgeInsets.init(horizontal:vertical:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIEdgeInset+CSExtension.swift",
+      "line": 21,
+      "symbol": "UIEdgeInsets.init(top:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIEdgeInset+CSExtension.swift",
+      "line": 25,
+      "symbol": "UIEdgeInsets.init(left:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIEdgeInset+CSExtension.swift",
+      "line": 29,
+      "symbol": "UIEdgeInsets.init(bottom:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIEdgeInset+CSExtension.swift",
+      "line": 33,
+      "symbol": "UIEdgeInsets.init(right:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIEdgeInset+CSExtension.swift",
+      "line": 37,
+      "symbol": "UIEdgeInsets.init(left:right:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIEdgeInset+CSExtension.swift",
+      "line": 42,
+      "symbol": "UIEdgeInsets.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIFont+CSExtension.swift",
+      "line": 11,
+      "symbol": "UIFont.withTraits(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIFont+CSExtension.swift",
+      "line": 15,
+      "symbol": "UIFont.serif()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIFont+CSExtension.swift",
+      "line": 17,
+      "symbol": "UIFont.bold()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIFont+CSExtension.swift",
+      "line": 19,
+      "symbol": "UIFont.normal()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIFont+CSExtension.swift",
+      "line": 21,
+      "symbol": "UIFont.italic()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIFont+CSExtension.swift",
+      "line": 23,
+      "symbol": "UIFont.boldItalic()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIFont+CSExtension.swift",
+      "line": 25,
+      "symbol": "UIFont.printNames()",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIImage+CSExtension.swift",
+      "line": 9,
+      "symbol": "UIImage.init(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIImage+CSExtension.swift",
+      "line": 13,
+      "symbol": "UIImage.imageWith(color:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIImage+CSExtension.swift",
+      "line": 24,
+      "symbol": "UIImage.inverseColor()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIImage+CSExtension.swift",
+      "line": 32,
+      "symbol": "UIImage.template",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIImage+CSExtension.swift",
+      "line": 36,
+      "symbol": "UIImage.scale(width:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIImage+CSExtension.swift",
+      "line": 42,
+      "symbol": "UIImage.scale(height:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIImage+CSExtension.swift",
+      "line": 48,
+      "symbol": "UIImage.scale(width:height:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIImage+CSExtension.swift",
+      "line": 56,
+      "symbol": "UIImage.scaleAndRotateFromCamera(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIImageView+CSExtension.swift",
+      "line": 3,
+      "symbol": "UIImageView.roundImageCorners(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIImageView+CSExtension.swift",
+      "line": 27,
+      "symbol": "UIImageView.image()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIImageView+CSExtension.swift",
+      "line": 29,
+      "symbol": "UIImageView.image(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UILabel+CSExtension.swift",
+      "line": 3,
+      "symbol": "UILabel.text(color:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UILabel+CSExtension.swift",
+      "line": 6,
+      "symbol": "UILabel.text(align:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UILabel+CSExtension.swift",
+      "line": 9,
+      "symbol": "UILabel.text(break:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UILabel+CSExtension.swift",
+      "line": 12,
+      "symbol": "UILabel.text(lines:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UILabel+CSExtension.swift",
+      "line": 16,
+      "symbol": "UILabel.text()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UILabel+CSExtension.swift",
+      "line": 18,
+      "symbol": "UILabel.text(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UILabel+CSExtension.swift",
+      "line": 22,
+      "symbol": "UILabel.font()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UILabel+CSExtension.swift",
+      "line": 24,
+      "symbol": "UILabel.font(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UINavigationController+CSExtension.swift",
+      "line": 12,
+      "symbol": "UINavigationController.popViewController()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UINavigationController+CSExtension.swift",
+      "line": 16,
+      "symbol": "UINavigationController.last",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UINavigationController+CSExtension.swift",
+      "line": 20,
+      "symbol": "UINavigationController.beforePrevious",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UINavigationController+CSExtension.swift",
+      "line": 24,
+      "symbol": "UINavigationController.previous",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UINavigationController+CSExtension.swift",
+      "line": 28,
+      "symbol": "UINavigationController.root",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UINavigationController+CSExtension.swift",
+      "line": 32,
+      "symbol": "UINavigationController.push(asRoot:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UINavigationController+CSExtension.swift",
+      "line": 37,
+      "symbol": "UINavigationController.push(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UINavigationController+CSExtension.swift",
+      "line": 59,
+      "symbol": "UINavigationController.pushAsLast(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UINavigationController+CSExtension.swift",
+      "line": 66,
+      "symbol": "UINavigationController.push(fromTop:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UINavigationController+CSExtension.swift",
+      "line": 77,
+      "symbol": "UINavigationController.push(_:keepLast:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UINavigationController+CSExtension.swift",
+      "line": 91,
+      "symbol": "UINavigationController.contains(controllerType:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UINavigationController+CSExtension.swift",
+      "line": 100,
+      "symbol": "UINavigationController.push(_:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIResponder+CSExtension.swift",
+      "line": 7,
+      "symbol": "UIResponder.invoke(animated:duration:operation:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIResponder+CSExtension.swift",
+      "line": 11,
+      "symbol": "UIResponder.invoke(animated:duration:operation:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIResponder+CSExtension.swift",
+      "line": 21,
+      "symbol": "UIResponder.animate(duration:operation:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIResponder+CSExtension.swift",
+      "line": 25,
+      "symbol": "UIResponder.animate(duration:operation:completion:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIScreen+CSExtension.swift",
+      "line": 4,
+      "symbol": "UIScreen.size",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIScreen+CSExtension.swift",
+      "line": 5,
+      "symbol": "UIScreen.width",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIScreen+CSExtension.swift",
+      "line": 6,
+      "symbol": "UIScreen.height",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIScreen+CSExtension.swift",
+      "line": 7,
+      "symbol": "UIScreen.maxLength",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIScreen+CSExtension.swift",
+      "line": 8,
+      "symbol": "UIScreen.minLength",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIScreen+CSExtension.swift",
+      "line": 9,
+      "symbol": "UIScreen.isZoomed",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIScreen+CSExtension.swift",
+      "line": 10,
+      "symbol": "UIScreen.isRetina",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIScrollView+CSExtension.swift",
+      "line": 5,
+      "symbol": "UIScrollView.contentSize(width:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIScrollView+CSExtension.swift",
+      "line": 11,
+      "symbol": "UIScrollView.contentSize(height:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIScrollView+CSExtension.swift",
+      "line": 17,
+      "symbol": "UIScrollView.content(inset:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIScrollView+CSExtension.swift",
+      "line": 19,
+      "symbol": "UIScrollView.scrollable(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIScrollView+CSExtension.swift",
+      "line": 24,
+      "symbol": "UIScrollView.isAtTop",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIScrollView+CSExtension.swift",
+      "line": 26,
+      "symbol": "UIScrollView.isAtBottom",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIScrollView+CSExtension.swift",
+      "line": 32,
+      "symbol": "UIScrollView.verticalOffsetForTop",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIScrollView+CSExtension.swift",
+      "line": 37,
+      "symbol": "UIScrollView.verticalOffsetForBottom",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIScrollView+CSExtension.swift",
+      "line": 45,
+      "symbol": "UIScrollView.scrollToTop()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIScrollView+CSExtension.swift",
+      "line": 49,
+      "symbol": "UIScrollView.scrollToBottom()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIScrollView+CSExtension.swift",
+      "line": 54,
+      "symbol": "UIScrollView.scrollTo(page:of:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIScrollView+CSExtension.swift",
+      "line": 60,
+      "symbol": "UIScrollView.currentPageIndex(from:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIScrollView+CSExtension.swift",
+      "line": 65,
+      "symbol": "UIScrollView.contentOffset(top:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIScrollView+CSExtension.swift",
+      "line": 73,
+      "symbol": "UIScrollView.contentOffset(left:animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UISearchBar+CSExtension.swift",
+      "line": 9,
+      "symbol": "UISearchBar.textColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UISearchBar+CSExtension.swift",
+      "line": 14,
+      "symbol": "UISearchBar.transparent()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UISegmentedControl+CSExtension.swift",
+      "line": 8,
+      "symbol": "UISegmentedControl.defaultHeight",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UISegmentedControl+CSExtension.swift",
+      "line": 11,
+      "symbol": "UISegmentedControl.selected(index:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UISegmentedControl+CSExtension.swift",
+      "line": 13,
+      "symbol": "UISegmentedControl.selectedIndex",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UISegmentedControl+CSExtension.swift",
+      "line": 18,
+      "symbol": "UISegmentedControl.selectedTitle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITabBar+CSExtension.swift",
+      "line": 11,
+      "symbol": "UITabBar.imageSize",
+      "symbol_kind": "source.lang.swift.decl.var.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITabBar+CSExtension.swift",
+      "line": 14,
+      "symbol": "UITabBar.items(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITabBar+CSExtension.swift",
+      "line": 17,
+      "symbol": "UITabBar.delegate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITabBar+CSExtension.swift",
+      "line": 20,
+      "symbol": "UITabBar.selected(index:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITabBar+CSExtension.swift",
+      "line": 22,
+      "symbol": "UITabBar.selectedIndex",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITabBarItem+CSExtension.swift",
+      "line": 8,
+      "symbol": "UITabBarItem.init(title:image:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITableView+CSExtension.swift",
+      "line": 3,
+      "symbol": "UITableView.reloadKeepSelection()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITableView+CSExtension.swift",
+      "line": 11,
+      "symbol": "UITableView.register(cell:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITableView+CSExtension.swift",
+      "line": 17,
+      "symbol": "UITableView.toggleEditing(animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITableView+CSExtension.swift",
+      "line": 26,
+      "symbol": "UITableView.hideEmptySeparatorsByEmptyFooter()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITableView+CSExtension.swift",
+      "line": 31,
+      "symbol": "UITableView.deselectSelectedRow(animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITableView+CSExtension.swift",
+      "line": 35,
+      "symbol": "UITableView.deselectSelectedRows(animated:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITableView+CSExtension.swift",
+      "line": 39,
+      "symbol": "UITableView.dequeueCellWith(identifier:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITableView+CSExtension.swift",
+      "line": 44,
+      "symbol": "UITableView.reload()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITableView+CSExtension.swift",
+      "line": 50,
+      "symbol": "UITableView.set(header:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITableView+CSExtension.swift",
+      "line": 56,
+      "symbol": "UITableView.set(footer:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITableView+CSExtension.swift",
+      "line": 62,
+      "symbol": "UITableView.delegates(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITableView+CSExtension.swift",
+      "line": 69,
+      "symbol": "UITableView.header(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITableView+CSExtension.swift",
+      "line": 71,
+      "symbol": "UITableView.contentHeight",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITableView+CSExtension.swift",
+      "line": 76,
+      "symbol": "UITableView.lastSection",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITableViewCell+CSExtension.swift",
+      "line": 2,
+      "symbol": "UITableViewCell.text()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITableViewCell+CSExtension.swift",
+      "line": 4,
+      "symbol": "UITableViewCell.text(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 7,
+      "symbol": "AssociatedUITextFieldDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 11,
+      "symbol": "AssociatedUITextFieldDelegate.textFieldShouldBeginEditing(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 18,
+      "symbol": "AssociatedUITextFieldDelegate.textFieldDidBeginEditing(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 25,
+      "symbol": "AssociatedUITextFieldDelegate.textFieldShouldEndEditing(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 32,
+      "symbol": "AssociatedUITextFieldDelegate.textFieldDidEndEditing(_:reason:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 39,
+      "symbol": "AssociatedUITextFieldDelegate.textField(_:shouldChangeCharactersIn:replacementString:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 45,
+      "symbol": "AssociatedUITextFieldDelegate.textFieldDidChangeSelection(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 52,
+      "symbol": "AssociatedUITextFieldDelegate.textFieldShouldClear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 64,
+      "symbol": "UITextField.caretRect(for:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 67,
+      "symbol": "UITextField.clear()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 70,
+      "symbol": "UITextField.togglePasswordVisibility()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 81,
+      "symbol": "UITextField.onClick(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 88,
+      "symbol": "UITextField.onBeginEditing(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 96,
+      "symbol": "UITextField.onEndEditing(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 104,
+      "symbol": "UITextField.onChange(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 115,
+      "symbol": "UITextField.onTextChange(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 134,
+      "symbol": "UITextField.onTextChange(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 139,
+      "symbol": "UITextField.onClear(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 158,
+      "symbol": "UITextField.text(align:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 161,
+      "symbol": "UITextField.text(color:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 164,
+      "symbol": "UITextField.font(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 167,
+      "symbol": "UITextField.font(size:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 169,
+      "symbol": "UITextField.fontSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 175,
+      "symbol": "UITextField.font(style:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 177,
+      "symbol": "UITextField.fontStyle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 182,
+      "symbol": "UITextField.filters",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 197,
+      "symbol": "UITextField.filters(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 202,
+      "symbol": "UITextField.keyboard(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 205,
+      "symbol": "UITextField.max(length:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 207,
+      "symbol": "UITextField.secure()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 211,
+      "symbol": "UITextField.text()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 213,
+      "symbol": "UITextField.text(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 228,
+      "symbol": "UIControl.addEventHandler(controlEvents:_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 236,
+      "symbol": "UIControl.removeEventHandler(controlEvents:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextField+CSExtension.swift",
+      "line": 247,
+      "symbol": "NSMutableDictionary.value(forKey:onCreate:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextInput+CSExtension.swift",
+      "line": 8,
+      "symbol": "UITextInput.text",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextView+CSExtension.swift",
+      "line": 3,
+      "symbol": "CSVerticalAlign",
+      "symbol_kind": "source.lang.swift.decl.enum",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextView+CSExtension.swift",
+      "line": 3,
+      "symbol": "CSVerticalAlign.bottom",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextView+CSExtension.swift",
+      "line": 3,
+      "symbol": "CSVerticalAlign.center",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextView+CSExtension.swift",
+      "line": 3,
+      "symbol": "CSVerticalAlign.top",
+      "symbol_kind": "source.lang.swift.decl.enumelement",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextView+CSExtension.swift",
+      "line": 7,
+      "symbol": "AssociatedUITextViewDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextView+CSExtension.swift",
+      "line": 10,
+      "symbol": "AssociatedUITextViewDelegate.textViewDidChange(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextView+CSExtension.swift",
+      "line": 17,
+      "symbol": "UITextView.associatedDelegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextView+CSExtension.swift",
+      "line": 21,
+      "symbol": "UITextView.delegate(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextView+CSExtension.swift",
+      "line": 23,
+      "symbol": "UITextView.scrollToCursorPosition()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextView+CSExtension.swift",
+      "line": 33,
+      "symbol": "UITextView.detectData(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextView+CSExtension.swift",
+      "line": 40,
+      "symbol": "UITextView.detect(data:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextView+CSExtension.swift",
+      "line": 43,
+      "symbol": "UITextView.detect(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextView+CSExtension.swift",
+      "line": 46,
+      "symbol": "UITextView.textVertical(align:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextView+CSExtension.swift",
+      "line": 56,
+      "symbol": "UITextView.alignContentCenter()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextView+CSExtension.swift",
+      "line": 64,
+      "symbol": "UITextView.alignContentBottom()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextView+CSExtension.swift",
+      "line": 72,
+      "symbol": "UITextView.alignContentTop()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextView+CSExtension.swift",
+      "line": 78,
+      "symbol": "UITextView.onTap(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextView+CSExtension.swift",
+      "line": 94,
+      "symbol": "UITextView.onTextChange(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextView+CSExtension.swift",
+      "line": 100,
+      "symbol": "UITextView.asLabel()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextView+CSExtension.swift",
+      "line": 115,
+      "symbol": "UITextView.text(align:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextView+CSExtension.swift",
+      "line": 119,
+      "symbol": "UITextView.text()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextView+CSExtension.swift",
+      "line": 121,
+      "symbol": "UITextView.text(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextView+CSExtension.swift",
+      "line": 125,
+      "symbol": "UITextView.font()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITextView+CSExtension.swift",
+      "line": 127,
+      "symbol": "UITextView.font(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UITraitCollection+CSExtension.swift",
+      "line": 9,
+      "symbol": "UITraitCollection.isDarkMode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSDimension.swift",
+      "line": 9,
+      "symbol": "UIView.width",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSDimension.swift",
+      "line": 19,
+      "symbol": "UIView.width(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSDimension.swift",
+      "line": 22,
+      "symbol": "UIView.width(as:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSDimension.swift",
+      "line": 24,
+      "symbol": "UIView.height",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSDimension.swift",
+      "line": 34,
+      "symbol": "UIView.height(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSExtension.swift",
+      "line": 4,
+      "symbol": "UIView.background(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSExtension.swift",
+      "line": 7,
+      "symbol": "UIView.background(_:opacity:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSExtension.swift",
+      "line": 12,
+      "symbol": "UIView.background(color:opacity:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSExtension.swift",
+      "line": 17,
+      "symbol": "UIView.interaction(enabled:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSExtension.swift",
+      "line": 20,
+      "symbol": "UIView.tint(color:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSExtension.swift",
+      "line": 23,
+      "symbol": "UIView.rotate(angle:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSExtension.swift",
+      "line": 26,
+      "symbol": "UIView.content(mode:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSExtension.swift",
+      "line": 29,
+      "symbol": "UIView.clipsToBounds(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSExtension.swift",
+      "line": 32,
+      "symbol": "UIView.asCircular()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSExtension.swift",
+      "line": 41,
+      "symbol": "UIView.roundedCorners(width:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSExtension.swift",
+      "line": 49,
+      "symbol": "UIView.clipToBounds()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSExtension.swift",
+      "line": 52,
+      "symbol": "UIView.border(width:color:radius:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSExtension.swift",
+      "line": 61,
+      "symbol": "UIView.clone()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSExtension.swift",
+      "line": 67,
+      "symbol": "UIView.firstResponder",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSExtension.swift",
+      "line": 77,
+      "symbol": "UIView.background(fadeTo:duration:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSExtension.swift",
+      "line": 101,
+      "symbol": "UIView.fadeToggle()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSExtension.swift",
+      "line": 104,
+      "symbol": "UIView.fadeTo(visible:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSExtension.swift",
+      "line": 106,
+      "symbol": "UIView.fadeIn(duration:onDone:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSExtension.swift",
+      "line": 115,
+      "symbol": "UIView.fadeOut(duration:onDone:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSExtension.swift",
+      "line": 124,
+      "symbol": "UIView.background4(dashed:stroke:gap:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSExtension.swift",
+      "line": 141,
+      "symbol": "UIView.data(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSExtension.swift",
+      "line": 146,
+      "symbol": "UIView.data()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSExtension.swift",
+      "line": 148,
+      "symbol": "UIView.addTapRecognizer(numberOfTouches:numberOfTaps:handler:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSExtension.swift",
+      "line": 156,
+      "symbol": "UIView.isEmpty",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSExtension.swift",
+      "line": 158,
+      "symbol": "UIView.controller",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSExtension.swift",
+      "line": 167,
+      "symbol": "UIView.navigation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSTouch.swift",
+      "line": 4,
+      "symbol": "UIView.onClick(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSTouch.swift",
+      "line": 13,
+      "symbol": "UIView.onTap(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSTouch.swift",
+      "line": 20,
+      "symbol": "UIView.aspectFit()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSTouch.swift",
+      "line": 23,
+      "symbol": "UIView.aspectFill()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSTouch.swift",
+      "line": 29,
+      "symbol": "UIView.onLongPress(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSTouch.swift",
+      "line": 36,
+      "symbol": "UIView.onTouch(_:noUpAfterChanged:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSTouch.swift",
+      "line": 58,
+      "symbol": "UIView.RecognizeSimultaneouslyWithAnyDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSTouch.swift",
+      "line": 59,
+      "symbol": "UIView.RecognizeSimultaneouslyWithAnyDelegate.gestureRecognizer(_:shouldRecognizeSimultaneouslyWith:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSTouch.swift",
+      "line": 65,
+      "symbol": "UIView.onTouchUp(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSTouch.swift",
+      "line": 70,
+      "symbol": "UIView.onTouchDown(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSTouch.swift",
+      "line": 75,
+      "symbol": "UIView.addTouchEffect(color:fade:fadeDuration:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSVisibility.swift",
+      "line": 2,
+      "symbol": "UIView.eventVisibilityChange",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSVisibility.swift",
+      "line": 5,
+      "symbol": "UIView.isVisible",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSVisibility.swift",
+      "line": 14,
+      "symbol": "UIView.shown(if:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSVisibility.swift",
+      "line": 21,
+      "symbol": "UIView.hidden(if:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSVisibility.swift",
+      "line": 28,
+      "symbol": "UIView.show()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSVisibility.swift",
+      "line": 36,
+      "symbol": "UIView.hide()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSVisibility.swift",
+      "line": 43,
+      "symbol": "UIView.isVisibleThroughHierarchy",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIView+CSVisibility.swift",
+      "line": 52,
+      "symbol": "UIView.isHiddenThroughHierarchy",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIViewController+CSExtension.swift",
+      "line": 12,
+      "symbol": "UIViewController.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIViewController+CSExtension.swift",
+      "line": 14,
+      "symbol": "UIViewController.navigation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIViewController+CSExtension.swift",
+      "line": 18,
+      "symbol": "UIViewController.push()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIViewController+CSExtension.swift",
+      "line": 24,
+      "symbol": "UIViewController.pushAsLast()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIViewController+CSExtension.swift",
+      "line": 30,
+      "symbol": "UIViewController.push(key:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIViewController+CSExtension.swift",
+      "line": 36,
+      "symbol": "UIViewController.pushMain()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIViewController+CSExtension.swift",
+      "line": 42,
+      "symbol": "UIViewController.pushFromTop()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIViewController+CSExtension.swift",
+      "line": 48,
+      "symbol": "UIViewController.present(from:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIViewController+CSExtension.swift",
+      "line": 55,
+      "symbol": "UIViewController.present(from:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIViewController+CSExtension.swift",
+      "line": 64,
+      "symbol": "UIViewController.present(from:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIViewController+CSExtension.swift",
+      "line": 72,
+      "symbol": "UIViewController.present()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIViewController+CSExtension.swift",
+      "line": 77,
+      "symbol": "UIViewController.isDarkMode",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIViewController+CSExtension.swift",
+      "line": 82,
+      "symbol": "UIViewController.controllerInNavigation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIViewController+CSExtension.swift",
+      "line": 90,
+      "symbol": "UIViewController.isLastInNavigation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIViewController+CSExtension.swift",
+      "line": 93,
+      "symbol": "UIViewController.backButtonWithoutPreviousTitle()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIViewController+CSExtension.swift",
+      "line": 99,
+      "symbol": "UIViewController.backButtonTitle(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIViewController+CSExtension.swift",
+      "line": 104,
+      "symbol": "UIViewController.present(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIViewController+CSExtension.swift",
+      "line": 109,
+      "symbol": "UIViewController.dismiss()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIViewController+CSExtension.swift",
+      "line": 112,
+      "symbol": "UIViewController.updateLayout()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIViewControllerTransitionCoordinator+CSExtension.swift",
+      "line": 9,
+      "symbol": "UIViewControllerTransitionCoordinator.onCompletion(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIWindow+CSUI.swift",
+      "line": 2,
+      "symbol": "UIWindow.orientationChange",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIWindow+CSUI.swift",
+      "line": 6,
+      "symbol": "UIWindow.orientation",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIWindow+CSUI.swift",
+      "line": 10,
+      "symbol": "UIWindow.isPortrait",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIWindow+CSUI.swift",
+      "line": 11,
+      "symbol": "UIWindow.isLandscape",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIWindow+CSUI.swift",
+      "line": 12,
+      "symbol": "UIWindow.isLandscapeLeft",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIWindow+CSUI.swift",
+      "line": 13,
+      "symbol": "UIWindow.isLandscapeRight",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIWindow+CSUI.swift",
+      "line": 15,
+      "symbol": "UIWindow.isThin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIWindow+CSUI.swift",
+      "line": 16,
+      "symbol": "UIWindow.isUltraThin",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIWindow+CSUI.swift",
+      "line": 17,
+      "symbol": "UIWindow.isWide",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIWindow+CSUI.swift",
+      "line": 18,
+      "symbol": "UIWindow.isUltraWide",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIWindow+CSUI.swift",
+      "line": 19,
+      "symbol": "UIWindow.isShort",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIWindow+CSUI.swift",
+      "line": 20,
+      "symbol": "UIWindow.isUltraShort",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIWindow+CSUI.swift",
+      "line": 21,
+      "symbol": "UIWindow.isTall",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIWindow+CSUI.swift",
+      "line": 22,
+      "symbol": "UIWindow.isUltraTall",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/extension/UIKit/UIWindow+CSUI.swift",
+      "line": 23,
+      "symbol": "UIWindow.isSmallPhone",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasAttributedText.swift",
+      "line": 8,
+      "symbol": "CSHasAttributedTextProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasAttributedText.swift",
+      "line": 9,
+      "symbol": "CSHasAttributedTextProtocol.attributedText()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasAttributedText.swift",
+      "line": 10,
+      "symbol": "CSHasAttributedTextProtocol.attributed(text:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasAttributedText.swift",
+      "line": 15,
+      "symbol": "UITextView.attributedText()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasAttributedText.swift",
+      "line": 17,
+      "symbol": "UITextView.attributed(text:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasAttributedText.swift",
+      "line": 21,
+      "symbol": "UILabel.attributedText()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasAttributedText.swift",
+      "line": 23,
+      "symbol": "UILabel.attributed(text:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasAttributedText.swift",
+      "line": 26,
+      "symbol": "CSHasAttributedTextProtocol",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasAttributedText.swift",
+      "line": 30,
+      "symbol": "CSHasAttributedTextProtocol.html(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasAttributedText.swift",
+      "line": 33,
+      "symbol": "CSHasAttributedTextProtocol.text(html:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasFont.swift",
+      "line": 8,
+      "symbol": "CSHasFontProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasFont.swift",
+      "line": 9,
+      "symbol": "CSHasFontProtocol.font()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasFont.swift",
+      "line": 10,
+      "symbol": "CSHasFontProtocol.font(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasFont.swift",
+      "line": 13,
+      "symbol": "CSHasFontProtocol",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasFont.swift",
+      "line": 15,
+      "symbol": "CSHasFontProtocol.font",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasFont.swift",
+      "line": 21,
+      "symbol": "CSHasFontProtocol.font(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasFont.swift",
+      "line": 24,
+      "symbol": "CSHasFontProtocol.font(size:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasFont.swift",
+      "line": 26,
+      "symbol": "CSHasFontProtocol.fontSize",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasFont.swift",
+      "line": 32,
+      "symbol": "CSHasFontProtocol.font(style:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasFont.swift",
+      "line": 34,
+      "symbol": "CSHasFontProtocol.fontStyle",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasFont.swift",
+      "line": 40,
+      "symbol": "CSHasFontProtocol.withBoldFont(if:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasImage.swift",
+      "line": 8,
+      "symbol": "CSHasImageProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasImage.swift",
+      "line": 9,
+      "symbol": "CSHasImageProtocol.image()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasImage.swift",
+      "line": 10,
+      "symbol": "CSHasImageProtocol.image(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasImage.swift",
+      "line": 13,
+      "symbol": "CSHasImageProtocol",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasImage.swift",
+      "line": 15,
+      "symbol": "CSHasImageProtocol.image",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasImage.swift",
+      "line": 21,
+      "symbol": "CSHasImageProtocol.image(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasImage.swift",
+      "line": 24,
+      "symbol": "CSHasImageProtocol.image(template:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasImage.swift",
+      "line": 27,
+      "symbol": "CSHasImageProtocol.resizableImage(capInsets:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasImage.swift",
+      "line": 32,
+      "symbol": "CSHasImageProtocol.stretchableImage(leftCapWidth:topCapHeight:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasText.swift",
+      "line": 8,
+      "symbol": "CSHasTextProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasText.swift",
+      "line": 9,
+      "symbol": "CSHasTextProtocol.text()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasText.swift",
+      "line": 10,
+      "symbol": "CSHasTextProtocol.text(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasText.swift",
+      "line": 13,
+      "symbol": "CSHasTextProtocol",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasText.swift",
+      "line": 15,
+      "symbol": "CSHasTextProtocol.text(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasText.swift",
+      "line": 17,
+      "symbol": "CSHasTextProtocol.textValue",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasText.swift",
+      "line": 22,
+      "symbol": "CSHasTextProtocol.text",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasText.swift",
+      "line": 28,
+      "symbol": "CSHasTextProtocol.text(prepend:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasText.swift",
+      "line": 31,
+      "symbol": "CSHasTextProtocol.text(append:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasText.swift",
+      "line": 34,
+      "symbol": "CSHasTextProtocol.text(replace:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasText.swift",
+      "line": 37,
+      "symbol": "CSHasTextProtocol",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasText.swift",
+      "line": 39,
+      "symbol": "CSHasTextProtocol.hideIfEmpty()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasTextColor.swift",
+      "line": 8,
+      "symbol": "CSHasTextColorProtocol",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasTextColor.swift",
+      "line": 9,
+      "symbol": "CSHasTextColorProtocol.textColor()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasTextColor.swift",
+      "line": 11,
+      "symbol": "CSHasTextColorProtocol.text(color:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasTextColor.swift",
+      "line": 15,
+      "symbol": "UITextView.textColor()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasTextColor.swift",
+      "line": 18,
+      "symbol": "UITextView.text(color:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasTextColor.swift",
+      "line": 22,
+      "symbol": "UILabel.textColor()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasTextColor.swift",
+      "line": 25,
+      "symbol": "UILabel.text(color:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasTextColor.swift",
+      "line": 28,
+      "symbol": "CSHasTextColorProtocol",
+      "symbol_kind": "source.lang.swift.decl.extension",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui/Sources/RenetikUI/protocol/CSHasTextColor.swift",
+      "line": 29,
+      "symbol": "CSHasTextColorProtocol.textColor",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/renetik/Development/renetik-instruments-ios/workspace/renetik-ios-ui"
+}
