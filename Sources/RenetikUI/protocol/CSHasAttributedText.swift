@@ -10,7 +10,6 @@ public protocol CSHasAttributedTextProtocol: AnyObject {
     func attributed(text: NSAttributedString?)
 }
 
-
 extension UITextView: CSHasAttributedTextProtocol {
     public func attributedText() -> NSAttributedString? { attributedText }
 
